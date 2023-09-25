@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\bin\Debug\ConsoleBasicCalc.exe.config
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\bin\Debug\ConsoleBasicCalc.exe
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\bin\Debug\ConsoleBasicCalc.pdb
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.exe
+C:\Users\arinp\source\repos\ConsoleBasicCalc\ConsoleBasicCalc\obj\Debug\ConsoleBasicCalc.pdb
